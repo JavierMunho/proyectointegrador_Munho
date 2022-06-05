@@ -1,3 +1,7 @@
 div { 
     background-color: rgb(60, 91, 128);
  }
+ app-redes{
+     float: right;
+     margin-top: 25 px;
+ }
